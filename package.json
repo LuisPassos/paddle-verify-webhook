@@ -1,0 +1,16 @@
+{
+  "name": "paddle-verify-webhook",
+  "version": "1.0.0",
+  "description": "Verify Paddle.com signature for incoming webhooks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "paddle",
+    "webhook",
+    "signature"
+  ],
+  "author": "Luís Passos",
+  "license": "ISC"
+}
