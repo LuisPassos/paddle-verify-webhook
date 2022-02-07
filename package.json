@@ -12,5 +12,8 @@
     "signature"
   ],
   "author": "Luís Passos",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "php-serialize": "^4.0.2"
+  }
 }
